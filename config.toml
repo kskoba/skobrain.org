@@ -1,33 +1,25 @@
 baseURL = "https://skobrain.org/"
 languageCode = "en-us"
-title = "Skobrain Lab"
+title = "Skoblenick Lab"
 theme = "PaperMod"
 
 # Enable the home layout (for _index.md)
 [params]
-  homeInfoParams = false
-  description = "Emergency Medicine | Neuroscience | Behavioural Health"
-  ShowShareButtons = false
-  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"   # or "light" / "dark"
+  disableScrollToTop = false
+  mainSections = ["posts"]
 
 # Optional: top menu bar
 [menu]
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/posts/about"
+    url = "/about/"
     weight = 1
-
-  [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/posts/publications"
-    weight = 2
-  [[menu.main]]
-    identifier = "cv"
-    name = "CV"
-    url = "/cv.pdf"
-    weight = 3
   [[menu.main]]
 	identifier = "contact"
 	name = "Contact"

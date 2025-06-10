@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to Skobrain on Skobrain Lab</title><link>https://skobrain.org/</link><description>Recent content in Welcome to Skobrain on Skobrain Lab</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate/><atom:link href="https://skobrain.org/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Skoblenick Lab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Skoblenick Lab</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is a placeholder for the About page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re interested in collaborating or learning more about our research, please get in touch:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dr. Kevin Skoblenick&lt;/strong&gt;&lt;br&gt;
+Emergency Physician &amp;amp; Clinician-Scientist&lt;br&gt;
+University of Alberta&lt;/p&gt;
+&lt;p&gt;📧 &lt;a href=&#34;mailto:skobleni@ualberta.ca&#34;&gt;skobleni@ualberta.ca&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://orcid.org/0000-0003-4404-0234&#34;&gt;ORCID&lt;/a&gt;&lt;br&gt;
+🔎 &lt;a href=&#34;https://scholar.google.com/scholar?hl=en&amp;amp;q=Kevin+Skoblenick&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

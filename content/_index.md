@@ -1,26 +1,14 @@
 ---
-title: "Welcome to Skobrain"
+title: "Skoblenick Lab"
 date: 2025-06-10
 ---
 
-Welcome to **Skobrain.org**, the online hub for Dr. Kevin Skoblenick’s research, publications, and academic work.
+Welcome to the Skoblenick Lab website.
 
-I am an emergency physician and clinician-scientist with a background in neuroscience. My work focuses on:
+Our research is focused on addressing urgent gaps in emergency mental health care, particularly in the management of acute suicidality and methamphetamine-induced psychosis. We aim to develop and evaluate rapid, point-of-care tools and pharmacologic strategies that improve decision-making, treatment, and patient outcomes in the emergency department.
 
-- Diagnostic accuracy in behavioural and psychiatric emergencies  
-- Clinical applications of ketamine for suicidality  
-- EEG and biomarker-based tools for neuropsychiatric triage  
-- Translational neuroscience in acute care settings
+Dr. Skoblenick is an emergency physician and clinician-scientist in Edmonton, Alberta. He completed his MSc at McMaster University, studying dopaminergic signaling and transcriptional regulation in schizophrenia. His PhD at Western University focused on prefrontal cortex dysfunction in the ketamine model of psychosis, using single-neuron electrophysiology in non-human primates.
 
-This site includes:
-
-- 📄 An up-to-date [Curriculum Vitae](/cv.pdf)  
-- 📚 A list of [Publications](/posts/publications)  
-- 🤝 Details about current [Collaborations](/posts/collaborations)  
-- 🧠 Explorations in emergency neuropsychiatry and translational methods
-
-> I aim to make this a living site — regularly updated with new work, presentations, and tools developed with collaborators.
-
-If you'd like to connect, feel free to [reach out](/posts/contact).
+If you'd like to connect, feel free to [reach out](/contact).
 
 ---
