@@ -1,7 +1,6 @@
 ---
 title: "Welcome to Skobrain"
 date: 2025-06-10
-layout: "home"
 ---
 
 Welcome to **Skobrain.org**, the online hub for Dr. Kevin Skoblenick’s research, publications, and academic work.
