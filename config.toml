@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 # Enable the home layout (for _index.md)
 [params]
-  homeInfoParams = true
+  homeInfoParams = false
   description = "Emergency Medicine | Neuroscience | Behavioural Health"
   ShowShareButtons = false
   ShowReadingTime = true
