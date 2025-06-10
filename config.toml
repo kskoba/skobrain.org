@@ -12,9 +12,7 @@ theme = "PaperMod"
   defaultTheme = "auto"   # or "light" / "dark"
   disableScrollToTop = false
   mainSections = ["posts"]
-  ShowFooter = true
-  ShowThemeCopyright = false
-  ShowCopyright = false
+  ShowFooter = false
 
 # Optional: top menu bar
 [menu]

@@ -1,11 +1,31 @@
-/* Change link colors globally */
+/* Light mode (default): darker mint */
 a {
-  color: #a6e3a1 !important;  /* Catppuccin Green */
-  font-weight: 600;
-  text-decoration: none;
+  color: #4da89c !important;  /* darker mint for readability */
+  text-decoration: none !important;
 }
 
 a:hover {
-  color: #94e2d5 !important;  /* Catppuccin Teal */
-  text-decoration: underline;
+  color: #ffaa26 !important;  /* orange on hover */
+  text-decoration: underline !important;
+}
+
+/* Dark mode (when html has .dark class) */
+html.dark a {
+  color: #94e2d5 !important;  /* bright mint in dark theme */
+}
+
+html.dark a:hover {
+  color: #ffaa26 !important;
+}
+
+
+/* Top menu active item (inside <span class="active">) */
+header span.active {
+  color: #ff6663 !important;         /* Red */
+  font-weight: bold !important;
+  text-decoration: none !important;
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace !important;
 }
