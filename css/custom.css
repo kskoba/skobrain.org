@@ -1,11 +1,17 @@
-/* Change link colors globally */
+/* General link styles */
 a {
-  color: #a6e3a1 !important;  /* Catppuccin Green */
-  font-weight: 600;
-  text-decoration: none;
+  color: #94e2d5 !important;         /* Mint green */
+  text-decoration: none !important;
 }
 
 a:hover {
-  color: #94e2d5 !important;  /* Catppuccin Teal */
-  text-decoration: underline;
+  color: #ffaa26 !important;         /* Orange hover */
+  text-decoration: underline !important;
+}
+
+/* Top menu active item (inside <span class="active">) */
+header span.active {
+  color: #ff6663 !important;         /* Red */
+  font-weight: bold !important;
+  text-decoration: none !important;
 }
