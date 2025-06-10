@@ -23,9 +23,13 @@ theme = "PaperMod"
     name = "Publications"
     url = "/posts/publications"
     weight = 2
-
   [[menu.main]]
     identifier = "cv"
     name = "CV"
     url = "/cv.pdf"
     weight = 3
+  [[menu.main]]
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
+	weight = 3
