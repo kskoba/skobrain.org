@@ -1,0 +1,11 @@
+/* Change link colors globally */
+a {
+  color: #a6e3a1 !important;  /* Catppuccin Green */
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #94e2d5 !important;  /* Catppuccin Teal */
+  text-decoration: underline;
+}
