@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-date: 2025-06-10
+date: 2025-08-05
 ---
 
 If you're interested in collaborating or learning more about our research, please get in touch:
