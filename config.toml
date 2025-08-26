@@ -17,9 +17,9 @@ theme = "PaperMod"
 # Optional: top menu bar
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "mtbi"
+    name = "mTBI Info"
+    url = "/mtbi/"
     weight = 1
   [[menu.main]]
 	identifier = "contact"
