@@ -6,8 +6,31 @@
     <description>Recent content on Skoblenick Lab</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mTBI Biomarker Resources</title>
+      <link>http://localhost:1313/mtbi/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mtbi/</guid>
+      <description>&lt;h2 id=&#34;whats-on-this-page&#34;&gt;&lt;strong&gt;What’s on this page:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Access to the validation papers behind the mTBI biomarker and clinical resources for the ED physician.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;validation-papers&#34;&gt;Validation Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Papa et al. (2016)&lt;/strong&gt; — 584 patients. GFAP performed consistently in detecting MMTBI, CT lesions, and neurosurgical intervention across 7 days. UCH-L1 performed best in the early postinjury period. &lt;a href=&#34;http://localhost:1313/files/mtbi/Papa-2016.pdf&#34;&gt;PDF&lt;/a&gt; (&lt;em&gt;JAMA Neurology&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yue et al. (2019)&lt;/strong&gt; — 450 patients. Measuring blood GFAP with a point-of-care test within 24 hours of injury can help detect TBI and flag patients who need imaging or follow-up. &lt;a href=&#34;http://localhost:1313/files/mtbi/Yue-2019.pdf&#34;&gt;PDF&lt;/a&gt; (&lt;em&gt;Lancet Neurology&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bazarian et al. (2021)&lt;/strong&gt; — 1936 patients. In over 1,900 patients with mild TBI, the biomarker showed very high sensitivity (~96%) and negative predictive value (&amp;gt;99%) for detecting CT-positive brain injuries. &lt;a href=&#34;http://localhost:1313/files/mtbi/Bazarian-2021.pdf&#34;&gt;PDF&lt;/a&gt; (&lt;em&gt;Academic Emergency Medicine&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Menditto et al. (2024)&lt;/strong&gt; — 234 patients, mean age 81 years old. Patients were included even if taking a DOAC or warfarin. GFAP had a 100% negative predictive value. &lt;a href=&#34;http://localhost:1313/files/mtbi/Menditto-2024.pdf&#34;&gt;PDF&lt;/a&gt; (&lt;em&gt;Clin Chem Lab Med&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Welch et al. (2025)&lt;/strong&gt; — 1899 patients, age 18-98 years old with head injury and GCS 9-15 in ED. Sensitivity 96.7%, negative predictive value 99.4%. &lt;a href=&#34;http://localhost:1313/files/mtbi/Welch-2025.pdf&#34;&gt;PDF&lt;/a&gt; (&lt;em&gt;American Journal of Emergency Medicine&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;clinical-practice&#34;&gt;Clinical Practice&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Suggested algorithm for the use of mTBI in the emergency department:&lt;/strong&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/files/mtbi/mtbi-algorithm.png&#34;
+         alt=&#34;mTBI algorithm&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Suggested algorithm for the use of mTBI in the emergency department&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
