@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Skoblenick Lab</title><link>https://skobrain.org/</link><description>Recent content on Skoblenick Lab</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Tue, 26 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://skobrain.org/index.xml" rel="self" type="application/rss+xml"/><item><title>mTBI Biomarker Resources</title><link>https://skobrain.org/mtbi/</link><pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate><guid>https://skobrain.org/mtbi/</guid><description>&lt;h2 id="whats-on-this-page">&lt;strong>What’s on this page:&lt;/strong>&lt;/h2>
 &lt;p>Access to the validation papers behind the mTBI biomarker and clinical resources for the ED physician.&lt;/p>
 &lt;hr>
+&lt;h2 id="clinical-practice">Clinical Practice&lt;/h2>
+&lt;p>&lt;strong>Suggested algorithm for the use of mTBI in the emergency department:&lt;/strong>
+&lt;figure>
+&lt;img loading="lazy" src="https://skobrain.org/files/mtbi/mtbi-algorithm.png"
+alt="mTBI algorithm"/> &lt;figcaption>
+&lt;p>Suggested algorithm for the use of mTBI in the emergency department&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>FAQ for Clinicians&lt;/strong> — 9 commonly asked questions about the mTBI biomarker. &lt;a href="https://skobrain.org/files/mtbi/mTBI-Biomarker-FAQ.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>&lt;strong>European Consensus Paper&lt;/strong> — Guidelines produced by a panel of experts with consensus recommendations. &lt;a href="https://skobrain.org/files/mtbi/European-Consensus-Paper.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Summary Slide of Implementation Goals&lt;/strong> — Brief summary slide of Edmonton specific goals for reduction of transportation for CT heads after TBI. &lt;a href="https://skobrain.org/files/mtbi/Summary-Slide-DEM-Research-Day.pdf">PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
 &lt;h2 id="validation-papers">Validation Papers&lt;/h2>
 &lt;ul>
 &lt;li>&lt;strong>Papa et al. (2016)&lt;/strong> — 584 patients. GFAP performed consistently in detecting MMTBI, CT lesions, and neurosurgical intervention across 7 days. UCH-L1 performed best in the early postinjury period. &lt;a href="https://skobrain.org/files/mtbi/Papa-2016.pdf">PDF&lt;/a> (&lt;em>JAMA Neurology&lt;/em>)&lt;/li>
@@ -9,12 +24,10 @@
 &lt;li>&lt;strong>Menditto et al. (2024)&lt;/strong> — 234 patients, mean age 81 years old. Patients were included even if taking a DOAC or warfarin. GFAP had a 100% negative predictive value. &lt;a href="https://skobrain.org/files/mtbi/Menditto-2024.pdf">PDF&lt;/a> (&lt;em>Clin Chem Lab Med&lt;/em>)&lt;/li>
 &lt;li>&lt;strong>Welch et al. (2025)&lt;/strong> — 1899 patients, age 18-98 years old with head injury and GCS 9-15 in ED. Sensitivity 96.7%, negative predictive value 99.4%. &lt;a href="https://skobrain.org/files/mtbi/Welch-2025.pdf">PDF&lt;/a> (&lt;em>American Journal of Emergency Medicine&lt;/em>)&lt;/li>
 &lt;/ul>
-&lt;h2 id="clinical-practice">Clinical Practice&lt;/h2>
-&lt;p>&lt;strong>Suggested algorithm for the use of mTBI in the emergency department:&lt;/strong>
-&lt;figure>
-&lt;img loading="lazy" src="https://skobrain.org/files/mtbi/mtbi-algorithm.png"
-alt="mTBI algorithm"/> &lt;figcaption>
-&lt;p>Suggested algorithm for the use of mTBI in the emergency department&lt;/p></description></item><item><title>Contact</title><link>https://skobrain.org/contact/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://skobrain.org/contact/</guid><description>&lt;p>If you&amp;rsquo;re interested in collaborating or learning more about our research, please get in touch:&lt;/p>
+&lt;hr>
+&lt;ul>
+&lt;li>&lt;strong>Implementation questions:&lt;/strong> &lt;a href="mailto:skobleni@ualberta.ca">skobleni@ualberta.ca&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Contact</title><link>https://skobrain.org/contact/</link><pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate><guid>https://skobrain.org/contact/</guid><description>&lt;p>If you&amp;rsquo;re interested in collaborating or learning more about our research, please get in touch:&lt;/p>
 &lt;p>&lt;strong>Dr. Kevin Skoblenick&lt;/strong>&lt;br>
 Emergency Physician &amp;amp; Clinician-Scientist&lt;br>
 University of Alberta&lt;/p>
