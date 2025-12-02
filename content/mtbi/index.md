@@ -26,7 +26,7 @@ Access to the validation papers behind the mTBI biomarker and clinical resources
 - **Bazarian et al. (2021)** — 1936 patients. In over 1,900 patients with mild TBI, the biomarker showed very high sensitivity (~96%) and negative predictive value (>99%) for detecting CT-positive brain injuries. [PDF](/files/mtbi/Bazarian-2021.pdf) (*Academic Emergency Medicine*)
 - **Menditto et al. (2024)** — 234 patients, mean age 81 years old. Patients were included even if taking a DOAC or warfarin. GFAP had a 100% negative predictive value. [PDF](/files/mtbi/Menditto-2024.pdf) (*Clin Chem Lab Med*)
 - **Welch et al. (2025)** — 1899 patients, age 18-98 years old with head injury and GCS 9-15 in ED. Sensitivity 96.7%, negative predictive value 99.4%. [PDF](/files/mtbi/Welch-2025.pdf) (*American Journal of Emergency Medicine*)
-
+- **Puravet A et al. (2025)** – Systematic review of 16 articles on the topic (7828 patients). the combined use of GFAP and UCH-L1 demonstrates a sensitivity of 100% in ruling out intracranial injury in adults. Potentially reduce unnecessary CT scans by 31%. [PDF] (/files/mtbi/Puravet-2025.pdf) (*Annals of Emergency Medicine*)
 ---
 
 - **Implementation questions:** <skobleni@ualberta.ca>
