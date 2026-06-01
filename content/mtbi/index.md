@@ -16,7 +16,6 @@ Access to the validation papers behind the mTBI biomarker and clinical resources
 
 - **FAQ for Clinicians** — 9 commonly asked questions about the mTBI biomarker. [PDF](/files/mtbi/mTBI-Biomarker-FAQ.pdf)
 - **European Consensus Paper** — Guidelines produced by a panel of experts with consensus recommendations. [PDF](/files/mtbi/European-Consensus-Paper.pdf)
-- **Summary Slide of Implementation Goals** — Brief summary slide of Edmonton specific goals for reduction of transportation for CT heads after TBI. [PDF](/files/mtbi/Summary-Slide-DEM-Research-Day.pdf)
 
 ---
 
